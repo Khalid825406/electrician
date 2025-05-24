@@ -7283,3 +7283,12 @@ header.main-header .header-sticky.active{
 .mainsectooe{
 	margin: 100px auto;
 }
+@media only screen and (max-width: 600px){
+	.sectorsection{
+	width: 100%;
+	padding: 20px 0px;
+	text-align: center;
+	box-shadow: 2px 2px 10px #ccc;
+	border-radius: 10px;
+}
+}
