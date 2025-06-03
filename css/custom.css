@@ -966,7 +966,8 @@ header.main-header .header-sticky.active {
 
 .hero.hero-bg-image.hero-slider-layout .hero-slide {
 	position: relative;
-	background: url('../images/newherosection.jpg');
+	/* background: url('../images/newherosection.jpg'); */
+	background: url(../images/Sultan_Qaboos_Grand_Mosque_RB.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
