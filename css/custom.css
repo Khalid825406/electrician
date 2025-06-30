@@ -7392,6 +7392,10 @@ header.main-header .header-sticky.active {
 		padding: 20px 0px;
 		box-shadow: 2px 2px 10px #ccc;
 		border-radius: 10px;
+		margin-top: 24px;
+	}
+	.content-val{
+		width: auto !important;
 	}
 }
 
